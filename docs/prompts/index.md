@@ -19,7 +19,6 @@ plan-documentation
 review-landing-pages
 set-up-google-analytics
 upgrade-the-starter-pack
-use-claude-with-chrome
 ```
 
 

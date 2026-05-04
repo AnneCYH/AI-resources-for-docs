@@ -3,8 +3,21 @@
 
 This prompt builds a hostname-filtered Free Form exploration in GA4,
 comprising a *Top pages* table plus a *Views over time* line chart.
-To succeed, it needs to access the GA4 UI in Chrome;
-see {ref}`use-claude-with-chrome` for the setup instructions.
+
+## Agentic browser access
+
+This prompt is built for Claude Code and relies on its ability to access the GA4 UI in Chrome;
+see {ref}`use-claude-with-chrome` for Claude setup instructions.
+
+If you drive the prompt from a non-Claude agent, use
+[Playwright MCP](https://github.com/microsoft/playwright-mcp) instead.
+
+For Copilot CLI, add it via `/mcp add` in the interactive prompt
+(command: `npx @playwright/mcp@latest`), or by editing
+`~/.copilot/mcp-config.json` directly; see
+[GitHub's docs](https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/add-mcp-servers).
+
+## The prompt
 
 Before using the prompt, fill in the `{{angle-bracket}}` placeholders:
 

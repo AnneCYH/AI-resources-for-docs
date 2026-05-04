@@ -20,6 +20,15 @@ copilot-instructions-ubuntu-server.md
 
 ## Claude
 
+```{toctree}
+:maxdepth: 1
+:hidden:
+
+use-claude-with-chrome.md
+```
+
+- {ref}`use-claude-with-chrome`: connect Claude to a real Chrome instance so it can drive web pages on your behalf (used by {ref}`set-up-google-analytics`).
+
 
 ## Gemini
 
