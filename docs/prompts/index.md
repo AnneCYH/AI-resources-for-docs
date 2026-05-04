@@ -12,13 +12,13 @@ Note that the prompts provided here have not been extensively battle-tested or r
 add-metadata-descriptions
 cleanup-spellcheck
 doc-planning
+docs-homepage-pattern
+docs-landing-page
+ga4-exploration
 linkcheck-optimization
 premade-metaprompt
 semantic-markup-conversion-prompt
 upgrade-the-starter-pack
-docs-homepage-pattern
-docs-landing-page
-ga4-exploration
 using-with-claude-for-chrome
 ```
 
