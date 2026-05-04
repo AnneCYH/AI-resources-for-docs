@@ -1,4 +1,5 @@
-# Semantic Markup Conversion Prompt
+(convert-to-semantic-markup)=
+# Convert to semantic markup
 
 Use this prompt to convert documentation links to semantic markup roles for manpages, Launchpad source packages, and Launchpad bugs.
 

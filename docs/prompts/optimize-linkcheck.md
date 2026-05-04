@@ -1,5 +1,5 @@
-(linkcheck-optimization)=
-# Linkcheck optimization
+(optimize-linkcheck)=
+# Optimize linkcheck
 
 This prompt should allow you to replicate the documentation linkcheck optimization test.
 

@@ -1,5 +1,5 @@
-(cleanup-spellcheck)=
-# Clean up spelling exceptions list
+(clean-up-spelling-exceptions)=
+# Clean up spelling exceptions
 
 This prompt should assist with cleaning up your spelling exception list. This is likely to need more than one round of prompting.
 

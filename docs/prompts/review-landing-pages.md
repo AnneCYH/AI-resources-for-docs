@@ -1,5 +1,5 @@
-(doc-landing-pages)=
-# Documentation landing pages
+(review-landing-pages)=
+# Review landing pages
 
 Use this prompt to review the landing pages in a Canonical documentation repository. The prompt instructs an agent to study the repository structure, identify the landing pages for each Diátaxis information type, and evaluate them against a standard example and a set of rules. The agent then produces a report of findings with specific suggestions for improvement.
 

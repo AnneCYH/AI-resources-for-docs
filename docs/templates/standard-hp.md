@@ -4,7 +4,7 @@ orphan: true
 
 # Standard homepage pattern template
 
-Used with the {ref}`docs-homepage-pattern` prompt.
+Used with the {ref}`arrange-homepage` prompt.
 
 
 ```md

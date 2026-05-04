@@ -1,5 +1,5 @@
-(premade-metaprompt)=
-# Premade metaprompt
+(generate-agent-prompts)=
+# Generate agent prompts
 
 Feed this into an LLM alongside the shorter, natural language prompt you want to ask. The LLM will combine both into a full and detailed prompt that you can feed into any other LLM to achieve good results with minimal (or no) followup prompting required.
 

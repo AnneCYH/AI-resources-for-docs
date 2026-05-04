@@ -1,5 +1,5 @@
-(docs-homepage-pattern)=
-# Docs homepage pattern
+(arrange-homepage)=
+# Arrange a homepage
 
 This prompt instructs a client/agent to:
 

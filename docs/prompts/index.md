@@ -10,16 +10,16 @@ Note that the prompts provided here have not been extensively battle-tested or r
 :maxdepth: 1
 
 add-metadata-descriptions
-cleanup-spellcheck
-doc-planning
-docs-homepage-pattern
-docs-landing-page
-ga4-exploration
-linkcheck-optimization
-premade-metaprompt
-semantic-markup-conversion-prompt
+arrange-homepage
+clean-up-spelling-exceptions
+convert-to-semantic-markup
+generate-agent-prompts
+optimize-linkcheck
+plan-documentation
+review-landing-pages
+set-up-google-analytics
 upgrade-the-starter-pack
-using-with-claude-for-chrome
+use-claude-with-chrome
 ```
 
 

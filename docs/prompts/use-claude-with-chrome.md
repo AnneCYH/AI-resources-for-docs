@@ -1,7 +1,7 @@
-(using-with-claude-for-chrome)=
-# Running prompts that drive a browser
+(use-claude-with-chrome)=
+# Use Claude with Chrome
 
-Some prompts in this collection, notably {ref}`ga4-exploration`,
+Some prompts in this collection, notably {ref}`set-up-google-analytics`,
 rely on Claude's ability to to operate a real web UI on your behalf.
 For these to work, Claude needs to be connected to Chrome.
 

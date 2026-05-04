@@ -1,5 +1,5 @@
-(doc-planning)=
-# Documentation planning
+(plan-documentation)=
+# Plan documentation
 
 This is a meta-prompt that helps you create documentation through structured
 reasoning. Use it by giving an LLM both this template and a code diff to be

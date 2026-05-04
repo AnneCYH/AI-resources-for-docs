@@ -1,10 +1,10 @@
-(ga4-exploration)=
-# Google Analytics per-subdomain exploration
+(set-up-google-analytics)=
+# Set up Google Analytics
 
 This prompt builds a hostname-filtered Free Form exploration in GA4,
 comprising a *Top pages* table plus a *Views over time* line chart.
 To succeed, it needs to access the GA4 UI in Chrome;
-see {ref}`using-with-claude-for-chrome` for the setup instructions.
+see {ref}`use-claude-with-chrome` for the setup instructions.
 
 Before using the prompt, fill in the `{{angle-bracket}}` placeholders:
 
