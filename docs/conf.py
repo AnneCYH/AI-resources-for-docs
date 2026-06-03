@@ -149,7 +149,7 @@ html_context = {
 
     "license": {
         "name": "CC-BY-SA-3.0",
-        "url": "https://github.com/canonical/sphinx-docs-starter-pack/blob/main/LICENSE",
+        "url": "https://github.com/canonical/sphinx-stack-docs/blob/main/LICENSE",
     },
 }
 

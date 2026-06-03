@@ -5,7 +5,7 @@
 # Requires some manual intervention, but makes identifying updates and differences easier.
 #
 # For debugging, please run this script with DEBUGGING=1
-# e.g. user@device:~/git/Canonical/sphinx-docs-starter-pack/docs$ DEBUGGING=1 python .sphinx/update_sp.py
+# e.g. user@device:~/git/Canonical/sphinx-stack-docs/docs$ DEBUGGING=1 python _dev/update_sp.py
 
 
 import glob
@@ -22,9 +22,9 @@ SPHINX_DIR = os.path.abspath(os.path.dirname(__file__))
 DOCS_DIR = os.path.abspath(os.path.join(SPHINX_DIR, '..'))
 REQUIREMENTS = os.path.join(DOCS_DIR, "requirements.txt")
 SPHINX_UPDATE_DIR = os.path.join(SPHINX_DIR, "update")
-GITHUB_REPO = "canonical/sphinx-docs-starter-pack"
+GITHUB_REPO = "canonical/sphinx-stack-docs"
 GITHUB_API_BASE = f"https://api.github.com/repos/{GITHUB_REPO}"
-GITHUB_API_SPHINX_DIR = f"{GITHUB_API_BASE}/contents/docs/.sphinx"
+GITHUB_API_SPHINX_DIR = f"{GITHUB_API_BASE}/contents/docs/_dev"
 GITHUB_RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_REPO}/main"
 
 TIMEOUT = 10  # seconds

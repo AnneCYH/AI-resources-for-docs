@@ -12,7 +12,7 @@ Created with:
 
     ## Project Overview
 
-    This is the **Ubuntu Server documentation** - a Sphinx-based documentation project using the [Canonical Sphinx Docs Starter Pack](https://github.com/canonical/sphinx-docs-starter-pack). Documentation targets the latest Ubuntu LTS release, calling out version-specific differences when they exist.
+    This is the **Ubuntu Server documentation** - a Sphinx-based documentation project using the [Canonical Sphinx Docs Starter Pack](https://github.com/canonical/sphinx-stack-docs). Documentation targets the latest Ubuntu LTS release, calling out version-specific differences when they exist.
 
     ## Architecture & Structure
 
